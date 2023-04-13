@@ -7,7 +7,7 @@ In order to set up `MetSim`'s virtual environment in Python on [DA Narval](https
 ```console
 foo@bar:~$ git clone https://github.com/kasra-keshavarz/metsim-env-narval/
 foo@bar:~$ cd metsim-env-narval/
-foo@bar:~$ ./create-venv.sh
+foo@bar:~$ ./create_env.sh
 ```
 
 # Use JupyterHub
