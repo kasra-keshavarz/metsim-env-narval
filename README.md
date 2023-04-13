@@ -11,13 +11,13 @@ foo@bar:~$ ./create-venv.sh
 ```
 
 # Use JupyterHub
-Visit [Narval's JupyterHub Webpage](https://jupyterhub.narval.computecanada.ca/hub/login) and use your Narval credentionals to launch a Jupyterlab Notebook. Load the `metsim-mods` from the `lmod` extension of your Jupyter session, and then choose the `metsim-env` kernel to do your computations.
+Visit [Narval's JupyterHub Webpage](https://jupyterhub.narval.computecanada.ca/hub/login) and use your Narval credentionals to launch a Jupyterlab Notebook. Load the `metsim-mods` from the `lmod` extension of your Jupyter session , and then choose the `metsim-env` kernel to do your computations.
 
 # Issues
 Open a ticket under the [Issues](./Issues) tab to report a problem.
 
 # License
-MetSim Environment on Narval
+MetSim Virtual Environment on Narval
 Copyright (C) 2023, University of Calgary
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
