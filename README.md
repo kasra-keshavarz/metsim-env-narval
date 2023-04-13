@@ -22,8 +22,8 @@ foo@bar:~$ ./create-venv.sh
 Open a ticket under the [Issues](./Issues) tab to report a problem.
 
 # License
-MetSim Virtual Environment on Narval
-Copyright (C) 2023, University of Calgary <br>  
+MetSim Virtual Environment on Narval <br />
+Copyright (C) 2023, University of Calgary <br>
 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
