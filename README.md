@@ -23,7 +23,6 @@ Open a ticket under the [Issues](./Issues) tab to report a problem.
 
 # License
 MetSim Virtual Environment on Narval
-
 Copyright (C) 2023, University of Calgary <br>  
 
 
