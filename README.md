@@ -2,7 +2,7 @@
 Virtual Environment to run Metsim on DA Narval
 
 # Setting up `MetSim`
-In order to set up `MetSim`'s virtual environment in Python on [DA Narval](https://docs.alliancecan.ca/wiki/Narval/en), follow the code snippet below:
+In order to set up `MetSim`'s virtual environment in Python on [DA Narval](https://docs.alliancecan.ca/wiki/Narval/en), load a `ssh` session on Narval and follow the code snippet below:
 
 ```console
 foo@bar:~$ git clone https://github.com/kasra-keshavarz/metsim-env-narval/
