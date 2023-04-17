@@ -19,7 +19,7 @@ foo@bar:~$ ./create_env.sh
 3. Happy computing!
 
 # Issues
-Open a ticket under the [Issues](./Issues) tab to report a problem.
+Open a ticket under the **Issues** tab to report a problem.
 
 # License
 MetSim Virtual Environment on Narval <br />
